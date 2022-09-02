@@ -1,0 +1,16 @@
+Buildfile: C:\Users\juanm\OneDrive\Documentos\Mendix\Test App-main\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 419 source files to C:\Users\juanm\OneDrive\Documentos\Mendix\Test App-main\deployment\run\bin
+    [javac] Note: Some input files use or override a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+package:
+      [jar] Building jar: C:\Users\juanm\OneDrive\Documentos\Mendix\Test App-main\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 12 seconds
+
+

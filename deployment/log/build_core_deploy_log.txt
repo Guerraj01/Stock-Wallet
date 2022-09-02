@@ -1,0 +1,11 @@
+Buildfile: C:\Users\juanm\OneDrive\Documentos\Mendix\Test App-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 51 files to C:\Users\juanm\OneDrive\Documentos\Mendix\Test App-main\deployment
+     [copy] Copying 132 files to C:\Users\juanm\OneDrive\Documentos\Mendix\Test App-main\deployment\model\lib\userlib
+     [copy] Copying 8 files to C:\Users\juanm\OneDrive\Documentos\Mendix\Test App-main\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
